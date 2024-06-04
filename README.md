@@ -49,22 +49,22 @@ Ruelle Dédale 3 / 203, 1348, Louvain-la-Neuve
 
 ## Formation
 ### Master de Spécialisation
-    -**Urbanisme et Aménagement du Territoire (URBA2MC)**  
+- **Urbanisme et Aménagement du Territoire (URBA2MC)**  
     Université catholique de Louvain (Louvain-la-Neuve)  
     Louvain-la-Neuve | Septembre 2022 - En cours
 
 ### Architecte
-    -    **Architecture et Art de l’Ingénieur (AAI)**  
+-    **Architecture et Art de l’Ingénieur (AAI)**  
     Institut des beaux-arts de Foumban (IBAF) - (UDs)  
     Foumban-Cameroun | Juillet 2018 | Bf-Assez bien
 
 ### Licence en Architecture
-    -    **Architecture et Art de l’Ingénieur (AAI)**  
+- **Architecture et Art de l’Ingénieur (AAI)**  
     Institut des beaux-arts de Foumban (IBAF) - (UDs)  
     Foumban-Cameroun | Septembre 2016 | B-Assez-bien
 
 ### Baccalauréat Scientifique Série « C »
-    -    **Mathématique et sciences physiques**  
+- **Mathématique et sciences physiques**  
     Lycée Classique de Bafoussam  
     Bafoussam | Septembre 2013
 
