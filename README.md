@@ -1,82 +1,110 @@
 # VICTORIEN DJONTSO
 **Architecte**
-dvrchipro@gmail.com  |  [Site Web](https://dvgt-dev.github.io/DV_Web_page/) | [LinkedIn](https://www.linkedin.com/in/djontso-victorien) | [YouTube](https://www.youtube.com/channel/UCdjontso-victorien2171)
+[Site Web](https://dvgt-dev.github.io/DV_Web_page/) | [LinkedIn](https://www.linkedin.com/in/djontso-victorien) | [YouTube](https://www.youtube.com/channel/UCdjontso-victorien2171)
 
-## Références Professionnelles
-**ONAC N°414** (Num° Ordre National de Architectes du Cameroun)
 
-## Profil Professionnel
-- Conception des plans d'architecture sur Archicad, plans en 2D et 3D, mise en œuvre de la modélisation BIM, publication automatique des plans, enrichissement d'informations BIM du modèle à partir de bases de données extérieurs (Excel, python, Grasshopper), configuration d’échange haute fidélité Archicad avec Autocad (calques, couleurs, filtres de calques, modèles de mise en page), Revit (modèle BIM, BIM à améliorer)
-- Connaissance de la base légale (droit Belge de l'espace bâti et non bâti puis de l'environnement) ; de ressources et logiciels cartographiques de l'urbaniste suite à la spécialisation en urbanisme en cours.
-- Base suffisantes pour utilisation programmation dans mon environnement de travail et mes applications. Membre de la communauté de développeur github, utilisation des facilitateurs IA (github copilot, stable diffusion (images), modèle de langage _mise en place en local pour la génération du texte et l’analyse de données_).
-- Ambitions : présentations interactives (réalité virtuelle et augmentée), simulation temps réel, animations (expérimentation récente de Unreal Engine et Houdini)
+# VICTORIEN DJONTSO
 
-## Compétences
-- Sensibilité artistique | Polyvalence | Capacité à résoudre des problèmes complexes | Persévérance dans les projets | Curiosité intellectuelle | Autonomie dans l'apprentissage | Créativité et innovation | Conception graphique | Maîtrise de Excel | Programmation Python | Programmation visuel Grasshopper | Gestion de projet | Rigueur et précision | Esprit critique | Esprit d'équipe | Pack Office.
+**Architect**
 
-## Parcours Professionnel
-### Stagiaire
-**Dessin Construction | Charleroi | Contrat d'apprentissage | Juin 2023 - Août 2023**
-- Durée 3 mois
-- Modélisation 3D + images de présentation, réunions officielles (Commune , BELRIS, CCATM), documents de présentation, visite de terrain / chantier.
+- **Adresse :** Ruelle Dédale 3 / 203, 1348, Louvain-la-Neuve
+- **Téléphone :** +32 4 65 96 95 07
+- **Email :** dvrchipro@gmail.com
 
-### Consultant
-**IF Architects | Yaoundé | Freelance | Mars 2021 - Septembre 2022**
-- Durée: 01 an
-- Projeteur, architecte de suivi / relevés , présentation etc.
+- **[Site Web](https://dvgt-dev.github.io/DV_Web_page/) | [LinkedIn](https://www.linkedin.com/in/djontso-victorien) | [YouTube](https://www.youtube.com/channel/UCdjontso-victorien2171)**
 
-### Stage Professionnel
-**Cabinet Serge Eloundou - SETREC AUI Sarl | Yaoundé | Contrat de professionnalisation | Mars 2019 - Mars 2021**
-- Durée: 02 ans
-- Programmeur, projeteur, architecte de suivi, présentations etc.
-- Divers projets ; Bâtiments d’envergure (immeuble de bureau (Mistriels) vaste programme)
+## PROFESSIONAL REFERENCES
 
-### Stage Personnel
-**Cabinet Bureau d’étude Architecte (BEA) de M. Guy R. Ouakam K., ONAC n 1978/020 | Bafoussam | Contrat de professionnalisation | Août 2019 - Décembre 2019**
-- Durée: 02 mois
-- Assistant architecte de suivi, projeteur
-- Chantier de la cathédrale à Bafoussam
+- **NOCA N°414** (National Order of Architects of Cameroon)
 
-### Stagiaire en Architecture
-**Urbatec Conseil | Yaoundé | Contrat d'apprentissage | Juillet 2016 - Septembre 2016**
-- Durée 03 mois
-- Conception architecturale, projet sur ArchiCAD, plans en 2D et 3D.
-- Référence de l’architecte : la magnifique bâtisse de la DGI (Direction général des Impôts ) à Yaoundé
-- Encadré par son stagiaire Herman Kamte, aujourd’hui référence international [forbesafrique.com/hermann-kamte-modele-dune-nouvelle-generation-darchitectes/](https://forbesafrique.com/hermann-kamte-modele-dune-nouvelle-generation-darchitectes/)
+## SKILLS
 
-## Formation
-### Master de Spécialisation
-- **Urbanisme et Aménagement du Territoire (URBA2MC)**  
-    Université catholique de Louvain (Louvain-la-Neuve)  
-    Louvain-la-Neuve | Septembre 2022 - En cours
+- Versatility \ Rigor and precision \ Critical thinking \ Team spirit
+- Ability to solve complex problems \ Perseverance in projects \ Intellectual curiosity \ Autonomy in learning
+- Artistic Sensibility \ Graphic Design \ Creativity and innovation
+- Proficiency in Excel \ Python Programming \ Visual Programming (Grasshopper-Houdini) \ Office Pack
 
-### Architecte
--    **Architecture et Art de l’Ingénieur (AAI)**  
-    Institut des beaux-arts de Foumban (IBAF) - (UDs)  
-    Foumban-Cameroun | Juillet 2018 | Bf-Assez bien
+## CERTIFICATES, TRAINING
 
-### Licence en Architecture
-- **Architecture et Art de l’Ingénieur (AAI)**  
-    Institut des beaux-arts de Foumban (IBAF) - (UDs)  
-    Foumban-Cameroun | Septembre 2016 | B-Assez-bien
+- **MOOC Bâtiment durable** (ADEME-France, 2018)
+  - [Construire en zone tropical humide](https://www.mooc-batiment-durable.fr/fr/formations/lumiere-thermique-et-acoustique-bien-construire-en-zone-tropical/)
+- **MOOC BIM: MOOC Bâtiment durable** (ADEME-France, 2018)
+  - [Devenez acteur de la transition numérique (But without evaluation)](https://www.mooc-batiment-durable.fr/fr/formations/moocbim-devenez-acteur-de-la-transition-numerique/)
 
-### Baccalauréat Scientifique Série « C »
-- **Mathématique et sciences physiques**  
-    Lycée Classique de Bafoussam  
-    Bafoussam | Septembre 2013
+## LANGUAGES
 
-## Certificats, Formations
-- MOOC Bâtiment durable (ADEME-France, 2018)
-- Formation: Construire en Zone tropical humide
-- MOOC BIM: Devenez acteur de la transition numérique (Mais sans terminer les terminer les évaluations)
+- **French :** Mother tongue
+- **English :** Notions
 
-## Langues
-- **Français**: Langue maternelle
-- **Anglais**: Notions
+## PROJECTS
 
-## Projets Réalisés
-- Monument du Cinquantenaire de l’Unité National du Cameroun
-- Complexe avec piscine à Kribi
+- Monument of the Fiftieth Anniversary of the National Unity of Cameroon
+- Resort with pool in Kribi
 
-## Centres d’Intérêt
-- Solution numérique/informatique en architecture et arts graphique | Créatif 3D Art | Beta testeur d’applications | Gestion de données en simulation | visualisation | Mise en œuvre /Chantier.
+## AREAS OF INTEREST
+
+- Digital/IT Solution in Architecture and Graphic Art
+- Creative 3D Art
+- Data management in simulation, visualization and Implementation/Construction.
+
+## PROFESSIONAL PROFILE
+
+- Designing Architectural Plans on **Autocad**, 2D and 3D Plans \ **BIM Models Implementation**
+- Automatic Publication of Plans \ Enhancement of **BIM** information from the model via external sources (Excel, Python, Grasshopper)
+- **Autocad** high-fidelity exchange configuration with **Autodesk** (layers, colors, layer filters, layout templates), Revit (BIM model, BIM to be improved)
+- Knowledge of the legal basis (Belgian law, BIM and Subuilt Space and then on the Environment); cartographic software, techniques and resources useful to the urban planner (following the current specialization in urban planning).
+- Sufficient basis for the use of programming and AI in my work environment and my applications (member of the **GitHub** developer community); use of AI facilitators (**GitHub**-copilot for code, stable diffusion images); Implementation of local text generation for data management and analysis.
+- Ambitions: interactive presentations (virtual and augmented reality), real-time simulation, animations (recent experimentation with Unreal Engine and Houdini)
+
+## CAREER
+
+### ACADEMIC INTERN
+
+- **Desisn Construction \ Charleroi \ Apprentissage contract \ June 2023 - August 2023**
+  - 3D models + presentation images, official meetings (Commune, BELRIS, COACTM), presentation documents, field visit / construction site.
+
+### CONSULTANT
+
+- **ZF Architects \ Yaoundé \ Independent \ Mar. 2021 - Sept. 2022**
+  - Designer, Architect of Follow-up/Surveys, Presentation etc.
+
+### PROFESSIONAL INTERNSHIP
+
+- **Cabinet Serge Eloundou - SETREC AUI Sarl \ Yaoundé \ Professionnalization contract \ March 2019 - March 2021**
+  - Programmer, designer, follow-up architect, presentations etc.
+  - Various projects; Large-scale buildings (office building (Ministry), large and complex projects)
+
+### STAGE STAFF
+
+- **Cabinet Bureau d'Etudes Architectes (BEA) \ Bafoussam \ Professionnalization contract \ Aug. 2019 - Dec. 2019**
+  - Assistant follow-up Architect, Designer
+  - Construction of the cathedral in Bafoussam
+
+### ACADEMIC INTERN
+
+- **URBATHEC Conseil \ Yaoundé \ Apprentissage contract \ July 2016 - Sept. 2016**
+  - Architectural design, project on ArchiCAD, 2D and 3D plans.
+  - Architect's reference: the magnificent building of the DGI (General Directorate of Taxes) in Yaoundé
+  - Supervised by his intern Herman Kante, now an international reference (published in [#](#))
+
+## FORMATION
+
+### SPECIALIZED MASTER'S DEGREE
+
+- **Urbanisme et Aménagement du Territoire (URBA2MC)**
+  - Université catholique de Louvain (Louvain-la-Neuve) \ September 2022 - Ongoing
+
+### ARCHITECT
+
+- **Architecture et Art de l'Ingénieur (AAI)**
+  - Institut des Beaux-arts de Foumban (IBAF) - (UDs) Foumban-Cameroon \ July 2018 \ B+ / Fairy good
+
+### BACHELOR'S DEGREE IN ARCHITECTURE
+
+- **Architecture et Art de l'Ingénieur (AAI)**
+  - Institut des Beaux-arts de Foumban (IBAF) - (UDs) Foumban-Cameroon \ September 2016 \ B- / Fairy well
+
+### SCIENTIFIC BACALAUREATE SERIES "C"
+
+- **Mathematics and sciences physiques**
+  - Lycée Classique de Bafoussam \ September 2013
