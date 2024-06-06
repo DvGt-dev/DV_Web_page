@@ -1,9 +1,6 @@
 # VICTORIEN DJONTSO
 **Architecte**
-
-Ruelle Dédale 3 / 203, 1348, Louvain-la-Neuve  
-+32 4 65 96 95 07 | dv.archipro@gmail.com  
-Âge : 10/01/1993 | Nationalité : Camerounaise | [Site Web](https://dvgt-dev.github.io/DV_Web_page/) | [LinkedIn](https://www.linkedin.com/in/djontso-victorien) | [YouTube](https://www.youtube.com/channel/UCdjontso-victorien2171)
+dvrchipro@gmail.com  |  [Site Web](https://dvgt-dev.github.io/DV_Web_page/) | [LinkedIn](https://www.linkedin.com/in/djontso-victorien) | [YouTube](https://www.youtube.com/channel/UCdjontso-victorien2171)
 
 ## Références Professionnelles
 **ONAC N°414** (Num° Ordre National de Architectes du Cameroun)
