@@ -4,7 +4,7 @@
 
 - **Adresse :** Ruelle Dédale 3 / 203, 1348, Louvain-la-Neuve
 - **Email :** dvrchipro@gmail.com
-- **[Site Web](https://dvgt-dev.github.io/DV_Web_page/) | [LinkedIn](https://www.linkedin.com/in/djontso-victorien) | [YouTube](https://www.youtube.com/channel/UCdjontso-victorien2171)**
+- **[Github](https://github.com/DvGt-dev/DV_Web_page/tree/main) | [Site Web](https://dvgt-dev.github.io/DV_Web_page/) | [LinkedIn](https://www.linkedin.com/in/djontso-victorien) | [YouTube](https://www.youtube.com/channel/UCdjontso-victorien2171)**
 
 ## PROFESSIONAL REFERENCES
 
@@ -108,6 +108,8 @@
 ### 
 
 ![iagegt](https://github.com/DvGt-dev/DV_Web_page/blob/main/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022.png/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022-0007.png)
+![iagegt](https://github.com/DvGt-dev/DV_Web_page/blob/main/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022.png/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022-0007.png)
+
 [iagegt](https://github.com/DvGt-dev/DV_Web_page/blob/main/MONUMENT%206.jpg)
 
 ![Sous-dossier du dossier actuel](https://github.com/DvGt-dev/DV_Web_page/blob/main/MONUMENT%206.jpg)
