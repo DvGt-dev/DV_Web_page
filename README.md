@@ -20,7 +20,7 @@
 ## CERTIFICATES, TRAINING
 
 - **MOOC Bâtiment durable** (ADEME-France, 2018)
-  - [Construire en zone tropical humide](https://www.mooc-batiment-durable.fr/fr/formations/lumiere-thermique-et-acoustique-bien-construire-en-zone-tropical/)
+  - [Construire en zone tropical humide](https://github.com/DvGt-dev/DV_Web_page/blob/main/README.md)
 - **MOOC BIM: MOOC Bâtiment durable** (ADEME-France, 2018)
   - [Devenez acteur de la transition numérique (But without evaluation)](https://www.mooc-batiment-durable.fr/fr/formations/moocbim-devenez-acteur-de-la-transition-numerique/)
 
