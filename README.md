@@ -108,7 +108,7 @@
 ### 
 
 ![iagegt](https://github.com/DvGt-dev/DV_Web_page/blob/main/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022.png/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022-0007.png)
-![iagegt](https://github.com/DvGt-dev/DV_Web_page/blob/main/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022.png/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022-0007.png)
+![iagegt](https://github.com/DvGt-dev/DV_Web_page/blob/main/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022.png/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022-0017.png)
 
 [iagegt](https://github.com/DvGt-dev/DV_Web_page/blob/main/MONUMENT%206.jpg)
 
