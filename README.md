@@ -104,7 +104,7 @@
 
 ### ---------------------------------------------------------------------------------------------
 
-### [SOME IMAGE ACHIEVEMENTS](https://github.com/DvGt-dev/DV_Web_page/edit/main/README.md) 
+### [SOME IMAGE ACHIEVEMENTS](https://github.com/DvGt-dev/DV_Web_page/tree/main#scientific-bacalaureate-series-c) 
 ![2](https://github.com/DvGt-dev/DV_Web_page/blob/main/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022.png/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022-0002.png) 
 ![3](https://github.com/DvGt-dev/DV_Web_page/blob/main/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022.png/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022-0003.png)
 ![4](https://github.com/DvGt-dev/DV_Web_page/blob/main/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022.png/iadDJONTSO%20VICTORIEN%20-%20Portfolio%202%202022-0004.png)  
