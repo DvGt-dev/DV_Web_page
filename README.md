@@ -1,16 +1,9 @@
 # VICTORIEN DJONTSO
-**Architecte**
-[Site Web](https://dvgt-dev.github.io/DV_Web_page/) | [LinkedIn](https://www.linkedin.com/in/djontso-victorien) | [YouTube](https://www.youtube.com/channel/UCdjontso-victorien2171)
-
-
-# VICTORIEN DJONTSO
 
 **Architect**
 
 - **Adresse :** Ruelle Dédale 3 / 203, 1348, Louvain-la-Neuve
-- **Téléphone :** +32 4 65 96 95 07
 - **Email :** dvrchipro@gmail.com
-
 - **[Site Web](https://dvgt-dev.github.io/DV_Web_page/) | [LinkedIn](https://www.linkedin.com/in/djontso-victorien) | [YouTube](https://www.youtube.com/channel/UCdjontso-victorien2171)**
 
 ## PROFESSIONAL REFERENCES
