@@ -58,7 +58,7 @@
 
 ### CONSULTANT
 
-- **ZF Architects \ Yaoundé \ Independent \ Mar. 2021 - Sept. 2022**
+- **[ZF Architects](https://www.zf-architects.com/) \ Yaoundé \ Independent \ Mar. 2021 - Sept. 2022**
   - Designer, Architect of Follow-up/Surveys, Presentation etc.
 
 ### PROFESSIONAL INTERNSHIP
@@ -77,8 +77,8 @@
 
 - **URBATHEC Conseil \ Yaoundé \ Apprentissage contract \ July 2016 - Sept. 2016**
   - Architectural design, project on ArchiCAD, 2D and 3D plans.
-  - Architect's reference: the magnificent building of the DGI (General Directorate of Taxes) in Yaoundé
-  - Supervised by his intern Herman Kante, now an international reference (published in [#](#))
+  - Architect's reference: the magnificent building of the [DGI](https://urbatechconseils.com/2015/08/02/construction-was-awarded-with-the-best-construction-company-prize/) (Direction Générale des Impôtss) in Yaoundé
+  - Supervised by his intern Herman Kante, now an international reference (published in [forbes](https://forbesafrique.com/hermann-kamte-modele-dune-nouvelle-generation-darchitectes/))
 
 ## FORMATION
 
