@@ -9,7 +9,7 @@
 ## PROFESSIONAL REFERENCES
 
 - **NOCA N°414** (National Order of Architects of Cameroon)
-
+![2](https://github.com/DvGt-dev/DV_Web_page/blob/main/hero-bg.jpg)
 ## SKILLS
 
 - Versatility \ Rigor and precision \ Critical thinking \ Team spirit
